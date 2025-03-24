@@ -1,0 +1,1 @@
+# The_system_activates_the_fan_when_needed_and_turns_it_off_to_prevent_humidity_and_energy_waste.
